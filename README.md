@@ -1,29 +1,20 @@
 # TopCourse
-TopCourse is a modern React-based web application that allows users to explore and enroll in various online courses. It provides an interactive and user-friendly interface to browse, filter, and purchase courses from different categories.
+TopCourse is a modern React-based web application that allows users to explore  various  courses. It provides an interactive and user-friendly interface to browse, filter courses from different categories.
 
-Features
+##Features
 
-🎯 Course Listings: View a collection of top-rated online courses.
+#🎯 Course Listings: View a collection of top-rated online courses.
 
-🔍 Search & Filter: Easily find courses based on categories and ratings.
-
-🛒 Add to Cart: Select courses and add them to a shopping cart.
-
-🌟 User Authentication: Sign up and log in securely.
+#🔍 Filter: Easily find courses based on categories.
 
 🎨 Responsive UI: Fully responsive design built with Tailwind CSS.
 
-Tech Stack
+##Tech Stack
 
 Frontend: React, Tailwind CSS
 
-State Management: Context API / Redux (if applicable)
 
-Backend (optional): Node.js, Express.js, MongoDB
-
-Payment Integration (if applicable): Razorpay / Stripe
-
-Installation
+##Installation
 
 To run this project locally, follow these steps:
 
