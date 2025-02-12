@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/Rajivs1/TopCourse.git
+git clone https://github.com/Rajivs1/topcourse.git
 cd TopCourse
 
 2️⃣ Install Dependencies
